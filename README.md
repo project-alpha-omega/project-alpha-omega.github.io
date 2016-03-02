@@ -1,2 +1,2 @@
 # project-alpha-omega.github.io
-Website
+[Website](http://project-alpha-omega.github.io)
